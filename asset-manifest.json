@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dogcare/static/css/main.266173d9.chunk.css",
+    "main.js": "/Dogcare/static/js/main.74bc0eb3.chunk.js",
+    "main.js.map": "/Dogcare/static/js/main.74bc0eb3.chunk.js.map",
+    "runtime-main.js": "/Dogcare/static/js/runtime-main.6ae9b1b5.js",
+    "runtime-main.js.map": "/Dogcare/static/js/runtime-main.6ae9b1b5.js.map",
+    "static/js/2.58185527.chunk.js": "/Dogcare/static/js/2.58185527.chunk.js",
+    "static/js/2.58185527.chunk.js.map": "/Dogcare/static/js/2.58185527.chunk.js.map",
+    "index.html": "/Dogcare/index.html",
+    "precache-manifest.3ca2dd140d02a6f175ee9b63983e48ee.js": "/Dogcare/precache-manifest.3ca2dd140d02a6f175ee9b63983e48ee.js",
+    "service-worker.js": "/Dogcare/service-worker.js",
+    "static/css/main.266173d9.chunk.css.map": "/Dogcare/static/css/main.266173d9.chunk.css.map",
+    "static/js/2.58185527.chunk.js.LICENSE.txt": "/Dogcare/static/js/2.58185527.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ae9b1b5.js",
+    "static/js/2.58185527.chunk.js",
+    "static/css/main.266173d9.chunk.css",
+    "static/js/main.74bc0eb3.chunk.js"
+  ]
+}
